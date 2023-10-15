@@ -1,5 +1,5 @@
-![logo](https://github.com/gfor-gour/gfor-gour/blob/main/a-boy-programming-on-a-desktop-in-dark-theme.jpg)
-<h1 align="center">Hi 👋🏽, I'm Gour Gupal Talukder</h1>
+
+<h2 align="center">Hi 👋🏽, I'm Gour Gupal Talukder</h2>
 <h3 align="center">a 2nd year UnderGrad. Software Engineering Student from IICT,SUST,BANGLADESH</h3>
 <p align="right"><img alt="Coding" width="350" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gfor-gour&label=Profile%20views&color=0e75b6&style=flat" alt="gfor-gour" /> </p>
