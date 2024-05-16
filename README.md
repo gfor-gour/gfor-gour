@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Android Project | SWE250**
+- 🔭 I’m currently working on **WebTech & DataBase**
 
-- 🌱 I’m currently learning **Flutter-Dart**
+- 🌱 I’m currently learning **React.js, Node.js,Expres.js, mySQL**
 
-- 💬 Ask me about **C,C++,JAVA**
+- 💬 Ask me about **C,C++,DSA,JAVA,Flutter,HTML,CSS,JS**
 
 - 📫 How to reach me **gourgupaltalukder@gmail.com**
 
